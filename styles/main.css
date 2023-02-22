@@ -1,0 +1,54 @@
+body {
+    background-color: aliceblue;
+}
+
+
+.pgName {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: x-large;
+   font-weight: 400;;
+   background-color: rgb(177, 204, 228);
+   text-align: center;
+   padding: 2%;}
+
+   .aside {
+    width: 30%;
+    padding: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5%;
+    float: right; 
+    margin-top: 15%;
+    background-color: rgb(205, 207, 207); 
+   }
+
+   .aquarium {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: left;
+    padding-top: 2%;
+    margin: 3%;
+   }
+
+   .card {
+    display: flex;
+    justify-content:flex-start;
+    margin: 3%;
+   }
+   
+   
+   .fish-bio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2%;    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 5px; /* 5px rounded corners */
+    width: 30%;
+    margin: 5px 
+}
+  
+  img {
+    border-radius: 5px 5px 0 0;
+    width: 300px;
+    height: 200px;
+  }
+
+  
